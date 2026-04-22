@@ -1,6 +1,5 @@
 # MaxPhisher
-A python phishing script for login phishing, image phishing, video phishing and many more
-Install primary dependencies (git, python)
+Skrip phishing Python untuk phishing login, phishing gambar, phishing video, dan banyak lagi. Instal dependensi utama (git, python).
 
     For Debian (Ubuntu, Kali-Linux, Parrot)
         sudo apt install git python3 python3-pip php openssh-client -y
@@ -13,7 +12,7 @@ Install primary dependencies (git, python)
 
 Clone this repository
 
-    https://github.com/Hackethics138/MaxPhisher
+    https://github.com/shopeebjm/MaxPhisher
 
 Enter the directory
 
@@ -29,8 +28,8 @@ Run the tool
 
 Or, directly run
 
-wget https://raw.githubusercontent.com/Hackethics138/MaxPhisher/main/maxphisher.py && python3 maxphisher.py
-Pip
+```wget https://raw.githubusercontent.com/Hackethics138/MaxPhisher/main/maxphisher.py && python3 maxphisher.py
+Pip```
 
     pip3 install maxphisher [For Termux]
     sudo pip3 install maxphisher --break-system-packages [For Linux]
