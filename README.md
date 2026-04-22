@@ -28,9 +28,7 @@ Run the tool
 
 Or, directly run
 
-```
 wget https://raw.githubusercontent.com/Hackethics138/MaxPhisher/main/maxphisher.py && python3 maxphisher.py
-```
 
 Pip
 
