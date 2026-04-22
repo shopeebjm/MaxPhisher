@@ -12,7 +12,7 @@ Skrip phishing Python untuk phishing login, phishing gambar, phishing video, dan
 
 Kloning repositori Ini
 
-    https://github.com/Hackethics138/MaxPhisher
+    https://github.com/shopeebjm/MaxPhisher
 
 Masuk Ke direktori
 
