@@ -10,19 +10,19 @@ Skrip phishing Python untuk phishing login, phishing gambar, phishing video, dan
     For Termux
         pkg install git python3 python-pip php openssh -y
 
-Clone this repository
+Kloning repositori Ini
 
     https://github.com/Hackethics138/MaxPhisher
 
-Enter the directory
+Masuk Ke direktori
 
     cd MaxPhisher
 
-Install all modules
+Install Semua module
 
     pip3 install -r files/requirements.txt --break-system-packages
 
-Run the tool
+Jalankan Alat Tersebut
 
     python3 maxphisher.py
 
